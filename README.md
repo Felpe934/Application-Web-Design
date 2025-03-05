@@ -23,9 +23,22 @@ Usas `#` para crear encabezados...
 
 Aquí están algunos de los comandos más utilizados en Git:
 
+## Comandos de Git
+
+### 1. Agregar archivos de manera individual o global
+
+- **Agregar un archivo específico:**
+
+```bash
+`git add archivo.txt`
+
+
 ### 1. **Verificar el estado de un repositorio local**
 
 ```bash
 git status
+## Comandos de Git
+
+
 
 
