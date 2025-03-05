@@ -1,5 +1,4 @@
-<<<<<<< HEAD
- 
+
 # Diseño Web de Aplicaciones
 
 **Nombre:** Carlos Felipe Blancas Arreola  
@@ -29,5 +28,4 @@ Aquí están algunos de los comandos más utilizados en Git:
 ```bash
 git status
 
-# Application-Web-Design
->>>>>>> 84a03b7352d08d2d620e21dfe26129a6abef259e
+
