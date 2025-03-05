@@ -23,9 +23,22 @@ Usas `#` para crear encabezados...
 
 Aquí están algunos de los comandos más utilizados en Git:
 
+Crear, ver y eliminar ramas:
+git branch nombre-de-la-rama
+
+Ver todas las ramas locales:
+git branch
+
+Cambiar de rama:
+git checkout nombre-de-la-rama
+
+1. Agregar comentarios al commit:
+
+git commit -m "Mensaje descriptivo del commit"
+
 ## Comandos de Git
 
-### 1. Agregar archivos de manera individual o global
+2. Agregar archivos de manera individual o global
 
 - **Agregar un archivo específico:**
 
@@ -33,7 +46,7 @@ Aquí están algunos de los comandos más utilizados en Git:
 `git add archivo.txt`
 
 
-### 1. **Verificar el estado de un repositorio local**
+3. **Verificar el estado de un repositorio local**
 
 ```bash
 git status
